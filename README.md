@@ -1,7 +1,3 @@
-project: recipes
+Projects-Recipes
 
-in this project i make a recipe list
-
-skils: html
-
-https://genezijlboot.github.io/recipes/
+https://genezijlboot.github.io/Projects-Recipes
